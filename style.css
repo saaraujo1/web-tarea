@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+header {
+  background: #fff;
+  padding: 20px;
+  border-bottom: 1px solid #ccc;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+nav a {
+  text-decoration: none;
+  color: #007acc;
+  font-weight: bold;
+}
+.hero {
+  padding: 60px;
+  text-align: center;
+  background: #e1f0ff;
+}
+.btn {
+  background: #007acc;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.portfolio {
+  padding: 40px;
+  text-align: center;
+}
+.proyecto {
+  background: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+footer {
+  background: #fff;
+  padding: 20px;
+  text-align: center;
+  margin-top: 40px;
+}
