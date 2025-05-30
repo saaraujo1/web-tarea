@@ -25,9 +25,11 @@ nav a {
   text-align: center;
   background: #e1f0ff;
 }
-.hero img {
+.hero img.hero-banner {
   width: 100%;
-  max-height: 300px;
+  max-width: 900px;
+  height: auto;
+  max-height: 280px;
   object-fit: cover;
   border-radius: 8px;
   margin-bottom: 20px;
